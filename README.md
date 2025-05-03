@@ -42,7 +42,7 @@
 
 ### :package: Featured Projects
 
-:small_blue_diamond: [Automation Examples](https://github.com/karinerb19/Automation_examples)  
+:small_blue_diamond: [Automation Examples](https://github.com/zfigueredo/automation-program)  
 
 ---
 
