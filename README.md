@@ -12,7 +12,7 @@
 - :seedling: I'm currently learning **Java, Selenium WebDriver, and API Testing Automation.**
 - :dancers: This repository documents my transition process, including:
       - 🧠 Key notes and concepts on automated testing
-      - 🛠️ Practice scripts in Selenium, Java/Python (or whatever language you use)
+      - 🛠️ Practice scripts in Selenium, Java
       - ✅ Exercises with automated testing for web applications
       - 📂 Project structure following best practices
       - 🔄 Integration with tools like Git, GitHub Actions,
