@@ -6,7 +6,7 @@
 
 ---
 
-### :female-technologist: About Me
+### About Me
 
 - :telescope: After several years working as a manual tester, I've decided to take the next step in my career: becoming an Automation Tester. 
 - :seedling: I'm currently learning **Java, Selenium WebDriver, and API Testing Automation.**
@@ -46,7 +46,7 @@
 
 ---
 
-### :sports_medal: Certifications
+### Certifications
 
 | Certification        | Link                           | Issued Date |
 |:-----------------------|:--------------------------------|:-------------|
